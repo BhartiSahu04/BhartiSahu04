@@ -1,3 +1,4 @@
+![logo](https://github.com/BhartiSahu04/BhartiSahu04/blob/main/BhartiSahu04%20Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Bharti Sahu</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 

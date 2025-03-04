@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhartisahu04&label=Profile%20views&color=0e75b6&style=flat" alt="bhartisahu04" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/bharti-sahu-597194302](www.linkedin.com/in/bharti-sahu-597194302)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/bharti-sahu041295](www.linkedin.com/in/bharti-sahu041295)
 
 - 📫 How to reach me **bhartisahu23620@gmail.com**
 
